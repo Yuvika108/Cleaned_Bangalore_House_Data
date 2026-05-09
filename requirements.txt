@@ -1,0 +1,1 @@
+flask, pandas, scikit-learn, pickle-mixin
